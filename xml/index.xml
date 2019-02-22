@@ -18,7 +18,19 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+       <div type="poem">
+         <head>success</head>
+         <lg>
+         <l><hi rend="caps">Success</hi> is counted sweetest</l>
+           <l>By those who never success</l>
+           <l>To comprehend a nector</l>
+           <l>requires sorest need</l>
+         </lg>
+         <lg>
+           <L>not one of the purpple host</L>
+           <l> who took the flg to day</l>
+         </lg>
+       </div>
       </body>
   </text>
 </TEI>
